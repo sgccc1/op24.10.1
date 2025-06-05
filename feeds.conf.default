@@ -1,5 +1,5 @@
-src-git packages https://github.com/sgccc1/packages23.05.5
-src-git luci https://github.com/sgccc1/luci23.05.5
+src-git packages https://github.com/sgccc1/packages24.10.1
+src-git luci https://github.com/sgccc1/luci24.10.1
 src-git routing https://git.openwrt.org/feed/routing.git^c9b636698881059a3c981032770968f5a98ff201
 src-git telephony https://git.openwrt.org/feed/telephony.git^fd605af7143165a2490681ec1752f259873b9147
 src-git helloworld https://github.com/sgccc1/helloworld
